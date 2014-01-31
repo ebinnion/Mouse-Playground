@@ -1,0 +1,12 @@
+"To get an average, please enter numbers. Use a 0 to signify end of numbers.!"
+
+A0=
+B0=
+"You entered "C?=
+(C.^ AA.C.+= BB.1+= "You entered "C?=)
+
+"Average: "A.B./!
+
+"!"
+
+$$

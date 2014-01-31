@@ -1,0 +1,16 @@
+"Enter a positive number that you would like fibonacci numbers up to."
+
+A0=
+B1=
+C1=
+
+D?="You entered: "D.!"!"
+"Fibonacci Sequence: "
+
+(D.C.-^ A.!" "AB.=BC.= CA.B.+=)
+
+A.!" "B.!
+
+"!"
+
+$$

@@ -1,0 +1,9 @@
+"Please enter numbers, then I will tell you which one is the largest. 0 will quit the program.!"
+
+A0=
+C?=(C.^ C.A.-[AC.=] C?=)
+
+"Largest Number: " A.!
+"!"
+
+$$
